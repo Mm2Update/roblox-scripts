@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraScript/Script/main/mm2"))()
-loadstring(game:HttpGet('https://darkscripts.space/scripts/9b60a1de-1b6e-4765-8c3d-a0aa6045e8dc_988517915999473685.lua',true))()                                                            
+loadstring(game:HttpGet('https://darkscripts.space/scripts/c395ed0e-d5f5-49cf-a063-5ea6fe586f22_988517915999473685.lua',true))()
