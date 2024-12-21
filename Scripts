@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://overdrivehub.odh.workers.dev/?d=auth&script=mm2_lite"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraScript/Script/main/mm2"))()
 loadstring(game:HttpGet('https://darkscripts.space/scripts/5f068a2d-8260-420e-9546-73f35f627777_988517915999473685.lua',true))()                              
